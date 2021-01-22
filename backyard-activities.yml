@@ -1,6 +1,6 @@
 spring:
   application:
-    name: Backyard Activities
+    name: backyard-activities
 
 backyard:
   city: plano
