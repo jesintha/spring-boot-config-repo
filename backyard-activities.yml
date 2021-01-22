@@ -1,6 +1,6 @@
 spring:
   application:
-    name: backyard-activities-cloud
+    name: Backyard Activities
 
 backyard:
   city: plano
